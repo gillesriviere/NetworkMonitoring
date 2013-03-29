@@ -1,0 +1,12 @@
+Avancement
+
+Serveur Web 
+	[ ] Presentation / mise en page
+	[ ] Reception des informations emises par l'agent
+	[ ] Envoie de requettes http aux agents
+	[ ] Gestion de comptes admin / user
+
+Agent
+	[ ] Collecte d'informations locales
+	[ ] Envoi d'informations au serveur
+	[ ] Reception des requettes en provenance du serveur
